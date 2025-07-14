@@ -2,30 +2,30 @@ import { Metadata } from 'next';
 import { Users, Target, Zap, Shield } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Sobre nosotros - Connect Ninjas',
-  description: 'Conoced al equipo detrás de Connect Ninjas y nuestra misión de automatizar integraciones API.',
+  title: 'Sobre nosotros - ConnectNinjas',
+  description: 'Conoced al equipo detrás de ConnectNinjas y nuestra misión de automatizar integraciones API.',
 };
 
 const values = [
   {
     icon: Zap,
-    title: 'Velocidad',
-    description: 'Entregamos en horas lo que otros tardan meses. La velocidad es nuestra ventaja competitiva.',
+    title: 'Velocidad letal',
+    description: 'Lo que otros entregan en meses, nosotros lo generamos en horas. Así de simple.',
   },
   {
     icon: Shield,
-    title: 'Seguridad',
-    description: 'Tus datos nunca salen de tu infraestructura. Seguridad by design.',
+    title: 'Seguridad innegociable',
+    description: 'Tu información nunca sale de tu infraestructura. On-prem. By design.',
   },
   {
     icon: Users,
-    title: 'Transparencia',
-    description: 'Precios claros, procesos transparentes, sin sorpresas. Construimos relaciones duraderas.',
+    title: 'Transparencia radical',
+    description: 'Nada de sorpresas. Precios claros, procesos visibles y entregas a la vista.',
   },
   {
     icon: Target,
-    title: 'Precisión',
-    description: 'Como verdaderos ninjas, atacamos el problema con precisión quirúrgica.',
+    title: 'Precisión quirúrgica',
+    description: 'Como buenos ninjas, no damos un paso en falso.',
   },
 ];
 
@@ -58,11 +58,10 @@ export default function AboutPage() {
         <div className="ninja-container">
           <div className="text-center mb-16">
             <h1 className="ninja-heading-xl mb-6">
-              Somos Connect Ninjas
+              Somos ConnectNinjas
             </h1>
             <p className="ninja-body-lg max-w-3xl mx-auto">
-              Un equipo de expertos en integraciones API que ha automatizado lo imposible: 
-              generar conectores funcionales mediante inteligencia artificial.
+              Un equipo de expertos en el mundo de las integraciones y el Travel Tech que hemos automatizamos lo imposible: generamos conectores API funcionales con inteligencia artificial. Donde otros ven semanas de desarrollo, nosotros vemos horas.
             </p>
           </div>
         </div>
@@ -77,13 +76,13 @@ export default function AboutPage() {
                 Nuestra misión
               </h2>
               <p className="ninja-body-lg mb-6">
-                Eliminar las barreras técnicas en las integraciones API. Creemos que conectar sistemas 
-                no debería ser un proceso lento y costoso.
+                Hacer que integrar APIs sea tan fácil como pulsar un botón.
+                Nos cansamos de la fricción, los costes y la complejidad innecesaria. ConnectNinjas nace para romper esas barreras con automatización real. En ConnectNinjas eliminas las barreras técnicas para poder hacer integraciones Api2Api.
               </p>
+              <h3 className="ninja-heading-md mb-4">Nuestro origen</h3>
               <p className="text-[#a0c4d4] leading-relaxed">
-                Después de años desarrollando integraciones manualmente, nos dimos cuenta de que 
-                la mayoría del trabajo era repetitivo y automatizable. Así nació Connect Ninjas: 
-                una solución que convierte documentación API en conectores funcionales.
+                Tras años desarrollando integraciones manualmente, vimos el patrón: trabajo repetitivo, reglas claras, procesos clonables.
+                Decidimos hacer lo obvio que nadie estaba haciendo: convertir documentación en conectores reales, con IA.
               </p>
             </div>
             <div className="ninja-card ninja-hover-lift">
@@ -91,10 +90,10 @@ export default function AboutPage() {
                 <div className="w-24 h-24 bg-[#00384d] border-2 border-[#b8ff60] rounded-full flex items-center justify-center mx-auto mb-6">
                   <Target className="h-12 w-12 text-[#b8ff60]" />
                 </div>
-                <h3 className="ninja-heading-md mb-4">2024</h3>
+                <h3 className="ninja-heading-md mb-4">Desde 2024</h3>
                 <p className="text-[#a0c4d4]">
-                  Año de fundación. Comenzamos con el dominio de transporte y C#, 
-                  con planes de expansión a otros sectores y lenguajes.
+                  Fundamos ConnectNinjas luego de mucha experiencia integrando acomodación y pusimos foco en el sector transporte y en C# y Java como lenguajes principales soportados. Hoy ya preparamos el salto a nuevos sectores y lenguajes.
+                  Mismo objetivo, más alcance.
                 </p>
               </div>
             </div>
@@ -107,10 +106,10 @@ export default function AboutPage() {
         <div className="ninja-container">
           <div className="text-center mb-16">
             <h2 className="ninja-heading-lg mb-6">
-              Nuestros valores
+              Lo que nos mueve
             </h2>
             <p className="ninja-body-lg max-w-3xl mx-auto">
-              Los principios que guían todo lo que hacemos.
+              Nuestros principios, nuestro código fuente:
             </p>
           </div>
 

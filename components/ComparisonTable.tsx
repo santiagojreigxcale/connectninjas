@@ -76,7 +76,7 @@ export default function ComparisonTable() {
       <div className="ninja-container">
         <div className="text-center mb-16">
           <h2 className="ninja-heading-lg mb-6">
-            ¿Por qué Connect Ninjas?
+            ¿Por qué ConnectNinjas?
           </h2>
           <p className="ninja-body-lg max-w-3xl mx-auto">
             Compara nuestra solución automatizada con el desarrollo manual tradicional.
@@ -89,7 +89,7 @@ export default function ComparisonTable() {
               <thead>
                 <tr>
                   <th className="text-left">Característica</th>
-                  <th className="text-center">Connect Ninjas</th>
+                  <th className="text-center">ConnectNinjas</th>
                   <th className="text-center">Desarrollo manual</th>
                 </tr>
               </thead>
