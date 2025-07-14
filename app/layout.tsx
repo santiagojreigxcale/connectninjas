@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'Connect Ninjas - Conectores API automáticos on-prem',
-  description: 'Integraciones API 100% automáticas y on-prem. Descargad vuestro conector en minutos. Sin vendor lock-in.',
+  description: 'Integraciones API 100% automáticas y on-prem. Descarga tu conector en minutos. Sin vendor lock-in.',
   keywords: 'integraciones API on-prem, conector C#, NDC integration, conectores automáticos',
   authors: [{ name: 'Connect Ninjas' }],
   creator: 'Connect Ninjas',
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     url: 'https://connectninjas.com',
     siteName: 'Connect Ninjas',
     title: 'Connect Ninjas - Conectores API automáticos on-prem',
-    description: 'Integraciones API 100% automáticas y on-prem. Descargad vuestro conector en minutos. Sin vendor lock-in.',
+    description: 'Integraciones API 100% automáticas y on-prem. Descarga tu conector en minutos. Sin vendor lock-in.',
     images: [
       {
         url: '/og-image.png',
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     site: '@connectninjas',
     creator: '@connectninjas',
     title: 'Connect Ninjas - Conectores API automáticos on-prem',
-    description: 'Integraciones API 100% automáticas y on-prem. Descargad vuestro conector en minutos. Sin vendor lock-in.',
+    description: 'Integraciones API 100% automáticas y on-prem. Descarga tu conector en minutos. Sin vendor lock-in.',
     images: ['/og-image.png'],
   },
   robots: {

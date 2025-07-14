@@ -11,7 +11,7 @@ export default function NotFound() {
             <h1 className="text-9xl font-bold text-[#b8ff60] mb-4">404</h1>
             <h2 className="ninja-heading-lg mb-6">Página no encontrada</h2>
             <p className="ninja-body-lg max-w-2xl mx-auto">
-              Lo sentimos, la página que buscáis no existe o ha sido movida.
+              Lo sentimos, la página que buscas no existe o ha sido movida.
             </p>
           </div>
           

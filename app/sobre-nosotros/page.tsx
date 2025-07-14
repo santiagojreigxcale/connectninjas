@@ -15,7 +15,7 @@ const values = [
   {
     icon: Shield,
     title: 'Seguridad',
-    description: 'Vuestros datos nunca salen de vuestra infraestructura. Seguridad by design.',
+    description: 'Tus datos nunca salen de tu infraestructura. Seguridad by design.',
   },
   {
     icon: Users,

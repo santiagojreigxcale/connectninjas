@@ -12,17 +12,17 @@ const features = [
   {
     icon: Zap,
     title: 'Generación automática',
-    description: 'Nuestra IA analiza vuestra documentación y genera el conector completo sin intervención manual.',
+    description: 'Nuestra IA analiza tu documentación y genera el conector completo sin intervención manual.',
   },
   {
     icon: Shield,
     title: 'Despliegue on-prem',
-    description: 'Vuestros datos nunca salen de vuestra infraestructura. Control total y seguridad garantizada.',
+    description: 'Tus datos nunca salen de tu infraestructura. Control total y seguridad garantizada.',
   },
   {
     icon: RefreshCw,
     title: 'Actualizaciones automáticas',
-    description: 'Cuando el proveedor actualiza su API, regeneramos vuestro conector automáticamente.',
+    description: 'Cuando el proveedor actualiza su API, regeneramos tu conector automáticamente.',
   },
   {
     icon: Code,
@@ -32,7 +32,7 @@ const features = [
   {
     icon: Download,
     title: 'Sin vendor lock-in',
-    description: 'Recibís el código fuente completo. Podéis modificarlo y mantenerlo internamente.',
+    description: 'Recibes el código fuente completo. Puedes modificarlo y mantenerlo internamente.',
   },
   {
     icon: Clock,
@@ -74,7 +74,7 @@ export default function ProductPage() {
               Características principales
             </h2>
             <p className="ninja-body-lg max-w-3xl mx-auto">
-              Todo lo que necesitáis para integraciones API exitosas.
+              Todo lo que necesitas para integraciones API exitosas.
             </p>
           </div>
 
@@ -141,10 +141,10 @@ export default function ProductPage() {
         <div className="ninja-container">
           <div className="text-center">
             <h2 className="ninja-heading-lg mb-6">
-              ¿Listos para empezar?
+              ¿Listo para empezar?
             </h2>
             <p className="ninja-body-lg mb-8 max-w-2xl mx-auto">
-              Solicitad una demo personalizada y ved cómo podemos acelerar vuestras integraciones.
+              Solicita una demo personalizada y ve cómo podemos acelerar tus integraciones.
             </p>
             <Link href="/contacto">
               <Button className="ninja-button ninja-hover-lift">

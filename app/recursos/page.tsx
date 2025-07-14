@@ -19,7 +19,7 @@ const blogPosts = [
   },
   {
     title: 'Automatización de conectores C# con IA',
-    excerpt: 'Descubrid cómo nuestra IA analiza documentación API y genera código C# optimizado para integraciones.',
+    excerpt: 'Descubre cómo nuestra IA analiza documentación API y genera código C# optimizado para integraciones.',
     date: '10 Mar 2024',
     author: 'María González',
     category: 'Técnico',
@@ -37,7 +37,7 @@ const blogPosts = [
   },
   {
     title: 'Seguridad en integraciones API: Guía 2024',
-    excerpt: 'Todo lo que necesitáis saber sobre seguridad en integraciones API, con foco en despliegues on-prem.',
+    excerpt: 'Todo lo que necesitas saber sobre seguridad en integraciones API, con foco en despliegues on-prem.',
     date: '28 Feb 2024',
     author: 'Alex Rodríguez',
     category: 'Seguridad',
