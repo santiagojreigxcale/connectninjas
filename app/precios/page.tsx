@@ -14,15 +14,15 @@ const faqs = [
   },
   {
     question: '¿Qué pasa si el proveedor cambia su API?',
-    answer: 'Con el mantenimiento anual, actualizamos automáticamente vuestro conector cuando el proveedor modifica su API. Recibís notificaciones y el nuevo conector sin coste adicional.',
+    answer: 'Con el mantenimiento anual, actualizamos automáticamente tu conector cuando el proveedor modifica su API. Recibes notificaciones y el nuevo conector sin coste adicional.',
   },
   {
     question: '¿Puedo modificar el código del conector?',
-    answer: 'Sí, recibís el código fuente completo. Podéis modificarlo, extenderlo o mantenerlo internamente. No hay vendor lock-in.',
+    answer: 'Sí, recibes el código fuente completo. Puedes modificarlo, extenderlo o mantenerlo internamente. No hay vendor lock-in.',
   },
   {
     question: '¿Qué significa "1 cambio de dominio del cliente"?',
-    answer: 'Si necesitáis modificar vuestro modelo de datos o lógica de negocio, incluimos 1 cambio gratuito al año. Cambios adicionales se facturan por separado.',
+    answer: 'Si necesitas modificar tu modelo de datos o lógica de negocio, incluimos 1 cambio gratuito al año. Cambios adicionales se facturan por separado.',
   },
   {
     question: '¿Qué son los "requisitos ad-hoc"?',
@@ -30,7 +30,7 @@ const faqs = [
   },
   {
     question: '¿Ofrecéis descuentos por volumen?',
-    answer: 'Sí, para múltiples conectores o contratos plurianuales ofrecemos descuentos. Contactad con nuestro equipo comercial para más información.',
+    answer: 'Sí, para múltiples conectores o contratos plurianuales ofrecemos descuentos. Contacta con nuestro equipo comercial para más información.',
   },
 ];
 
@@ -88,7 +88,7 @@ export default function PricingPage() {
               </div>
               <h3 className="ninja-heading-md mb-4">Sin vendor lock-in</h3>
               <p className="text-[#a0c4d4]">
-                Recibís el código fuente completo. Podéis modificarlo y mantenerlo internamente sin depender de nosotros.
+                Recibes el código fuente completo. Puedes modificarlo y mantenerlo internamente sin depender de nosotros.
               </p>
             </div>
 
@@ -98,7 +98,7 @@ export default function PricingPage() {
               </div>
               <h3 className="ninja-heading-md mb-4">ROI inmediato</h3>
               <p className="text-[#a0c4d4]">
-                Ahorrais meses de desarrollo y miles de euros en costes de personal. El ROI se ve desde el primer día.
+                Ahorras meses de desarrollo y miles de euros en costes de personal. El ROI se ve desde el primer día.
               </p>
             </div>
 

@@ -79,7 +79,7 @@ export default function ComparisonTable() {
             ¿Por qué Connect Ninjas?
           </h2>
           <p className="ninja-body-lg max-w-3xl mx-auto">
-            Comparad nuestra solución automatizada con el desarrollo manual tradicional.
+            Compara nuestra solución automatizada con el desarrollo manual tradicional.
           </p>
         </div>
 

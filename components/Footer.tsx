@@ -30,7 +30,7 @@ export default function Footer() {
               <span className="text-xl font-bold text-[#e8f6ff]">Connect Ninjas</span>
             </Link>
             <p className="text-[#a0c4d4] mb-6 max-w-md">
-              Integraciones API 100% automáticas y on-prem. Descargad vuestro conector en minutos. Sin vendor lock-in.
+              Integraciones API 100% automáticas y on-prem. Descarga tu conector en minutos. Sin vendor lock-in.
             </p>
             <div className="space-y-2">
               <div className="flex items-center space-x-2 text-[#a0c4d4]">

@@ -18,7 +18,7 @@ export default function ContactPage() {
     e.preventDefault();
     // Handle form submission here
     console.log('Form submitted:', formData);
-    alert('Gracias por vuestro interés. Nos pondremos en contacto pronto.');
+    alert('Gracias por tu interés. Nos pondremos en contacto pronto.');
   };
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
@@ -35,10 +35,10 @@ export default function ContactPage() {
         <div className="ninja-container">
           <div className="text-center mb-16">
             <h1 className="ninja-heading-xl mb-6">
-              Hablemos de vuestras integraciones
+              Hablemos de tus integraciones
             </h1>
             <p className="ninja-body-lg max-w-3xl mx-auto">
-              Contactad con nuestro equipo para una demo personalizada o resolver cualquier duda.
+              Contacta con nuestro equipo para una demo personalizada o resolver cualquier duda.
             </p>
           </div>
         </div>
@@ -50,7 +50,7 @@ export default function ContactPage() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
             {/* Contact Form */}
             <div>
-              <h2 className="ninja-heading-lg mb-8">Solicitad una demo</h2>
+              <h2 className="ninja-heading-lg mb-8">Solicita una demo</h2>
               <form onSubmit={handleSubmit} className="space-y-6">
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                   <div>
@@ -65,7 +65,7 @@ export default function ContactPage() {
                       value={formData.name}
                       onChange={handleChange}
                       className="ninja-input"
-                      placeholder="Vuestro nombre"
+                      placeholder="Nombre"
                     />
                   </div>
                   <div>
@@ -80,7 +80,7 @@ export default function ContactPage() {
                       value={formData.email}
                       onChange={handleChange}
                       className="ninja-input"
-                      placeholder="vuestro@email.com"
+                      placeholder="tu@email.com"
                     />
                   </div>
                 </div>
@@ -128,7 +128,7 @@ export default function ContactPage() {
                     value={formData.message}
                     onChange={handleChange}
                     className="ninja-textarea"
-                    placeholder="Contadnos sobre vuestras necesidades de integración..."
+                    placeholder="Cuéntanos sobre tus necesidades de integración..."
                   />
                 </div>
 
@@ -192,9 +192,9 @@ export default function ContactPage() {
               {/* Calendar Integration */}
               <div className="mt-8">
                 <div className="ninja-card ninja-hover-lift text-center">
-                  <h3 className="ninja-heading-md mb-4">Reservad una reunión</h3>
+                  <h3 className="ninja-heading-md mb-4">Reserva una reunión</h3>
                   <p className="text-[#a0c4d4] mb-6">
-                    ¿Preferís hablar directamente? Reservad una slot en nuestro calendario.
+                    ¿Prefieres hablar directamente? Reserva un hueco en nuestro calendario.
                   </p>
                   <Button className="ninja-button-secondary">
                     Abrir calendario

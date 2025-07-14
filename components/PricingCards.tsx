@@ -10,7 +10,7 @@ const pricingPlans = [
     price: '20.000',
     currency: '€',
     period: 'pago único',
-    description: 'Perfecto para comenzar con vuestra primera integración API',
+    description: 'Perfecto para comenzar con tu primera integración API',
     features: [
       'Conector API personalizado',
       'Documentación completa',
@@ -27,7 +27,7 @@ const pricingPlans = [
     price: '2.000',
     currency: '€',
     period: 'por año',
-    description: 'Mantened vuestro conector actualizado automáticamente',
+    description: 'Mantén tu conector actualizado automáticamente',
     features: [
       'Actualizaciones ilimitadas del proveedor',
       '1 cambio de dominio del cliente',
@@ -116,10 +116,10 @@ export default function PricingCards() {
               <Shield className="h-8 w-8 text-[#b8ff60]" />
             </div>
             <h3 className="ninja-heading-md mb-4">Garantía de satisfacción</h3>
-            <p className="text-[#a0c4d4]">
-              Si no estáis satisfechos con el conector en los primeros 30 días, 
-              os devolvemos el 100% del importe. Sin preguntas.
-            </p>
+              <p className="text-[#a0c4d4]">
+                Si no estás satisfecho con el conector en los primeros 30 días,
+                te devolvemos el 100% del importe. Sin preguntas.
+              </p>
           </div>
         </div>
       </div>
