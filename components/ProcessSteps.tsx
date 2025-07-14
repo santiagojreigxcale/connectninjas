@@ -6,26 +6,26 @@ import { Upload, FileText, Code, Download } from 'lucide-react';
 const steps = [
   {
     number: 1,
-    title: 'Subid vuestro dominio',
-    description: 'Cargad la documentación de vuestro dominio de negocio para que nuestra IA comprenda vuestros requisitos.',
+    title: 'Sube tu dominio',
+    description: 'Arrastra tu documentación de negocio. Nuestra IA la analiza al instante.',
     icon: Upload,
   },
   {
     number: 2,
-    title: 'Subid la doc del proveedor',
-    description: 'Proporcionad la documentación API del proveedor externo que queréis integrar.',
+    title: 'Añade la API externa',
+    description: 'Pega la URL de la documentación API. Automáticamente extraemos todo lo necesario.',
     icon: FileText,
   },
   {
     number: 3,
-    title: 'Elegid lenguaje',
-    description: 'Seleccionad el lenguaje de programación. Actualmente soportamos C# con más opciones próximamente.',
+    title: 'Elige C#',
+    description: 'Un click y listo. Código optimizado y listo para producción.',
     icon: Code,
   },
   {
     number: 4,
-    title: 'Descargad el artefacto',
-    description: 'Recibid vuestro conector completamente funcional, listo para desplegar on-prem.',
+    title: '¡Descarga y despliega!',
+    description: 'Conector completo en minutos. Código fuente incluido, sin dependencias externas.',
     icon: Download,
   },
 ];
