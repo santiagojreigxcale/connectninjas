@@ -27,7 +27,7 @@ export default function Footer() {
           <div className="col-span-1 lg:col-span-2">
             <Link href="/" className="flex items-center space-x-2 mb-4">
               <Zap className="h-8 w-8 text-[#b8ff60]" />
-              <span className="text-xl font-bold text-[#e8f6ff]">Connect Ninjas</span>
+              <span className="text-xl font-bold text-[#e8f6ff]">ConnectNinjas</span>
             </Link>
             <p className="text-[#a0c4d4] mb-6 max-w-md">
               Integraciones API 100% automáticas y on-prem. Descarga tu conector en minutos. Sin vendor lock-in.
@@ -84,7 +84,7 @@ export default function Footer() {
 
         <div className="border-t border-[#0a4c5c] mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-[#a0c4d4] text-sm">
-            © 2024 Connect Ninjas. Todos los derechos reservados.
+            © 2024 ConnectNinjas. Todos los derechos reservados.
           </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             {footerLinks.legal.map((link) => (

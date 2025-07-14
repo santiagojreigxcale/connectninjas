@@ -8,12 +8,12 @@ import Footer from '@/components/Footer';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Connect Ninjas - Conectores API automáticos on-prem',
+  title: 'ConnectNinjas - Conectores API automáticos on-prem',
   description: 'Integraciones API 100% automáticas y on-prem. Descarga tu conector en minutos. Sin vendor lock-in.',
   keywords: 'integraciones API on-prem, conector C#, NDC integration, conectores automáticos',
-  authors: [{ name: 'Connect Ninjas' }],
-  creator: 'Connect Ninjas',
-  publisher: 'Connect Ninjas',
+  authors: [{ name: 'ConnectNinjas' }],
+  creator: 'ConnectNinjas',
+  publisher: 'ConnectNinjas',
   metadataBase: new URL('https://connectninjas.com'),
   alternates: {
     canonical: '/',
@@ -22,15 +22,15 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'es_ES',
     url: 'https://connectninjas.com',
-    siteName: 'Connect Ninjas',
-    title: 'Connect Ninjas - Conectores API automáticos on-prem',
+    siteName: 'ConnectNinjas',
+    title: 'ConnectNinjas - Conectores API automáticos on-prem',
     description: 'Integraciones API 100% automáticas y on-prem. Descarga tu conector en minutos. Sin vendor lock-in.',
     images: [
       {
         url: '/og-image.png',
         width: 1200,
         height: 630,
-        alt: 'Connect Ninjas',
+        alt: 'ConnectNinjas',
       },
     ],
   },
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     site: '@connectninjas',
     creator: '@connectninjas',
-    title: 'Connect Ninjas - Conectores API automáticos on-prem',
+    title: 'ConnectNinjas - Conectores API automáticos on-prem',
     description: 'Integraciones API 100% automáticas y on-prem. Descarga tu conector en minutos. Sin vendor lock-in.',
     images: ['/og-image.png'],
   },
@@ -58,7 +58,7 @@ export const metadata: Metadata = {
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'SoftwareApplication',
-  name: 'Connect Ninjas',
+  name: 'ConnectNinjas',
   description: 'Artefactos de integración API generados y mantenidos automáticamente mediante IA, entregados para ejecución on-prem',
   url: 'https://connectninjas.com',
   applicationCategory: 'BusinessApplication',
@@ -72,7 +72,7 @@ const jsonLd = {
   },
   provider: {
     '@type': 'Organization',
-    name: 'Connect Ninjas',
+    name: 'ConnectNinjas',
     url: 'https://connectninjas.com',
   },
 };

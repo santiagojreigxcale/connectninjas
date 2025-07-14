@@ -4,7 +4,7 @@ import { Button } from '@/components/ui/button';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: 'Producto - Connect Ninjas',
+  title: 'Producto - ConnectNinjas',
   description: 'Descubrid cómo funcionan nuestros conectores API automáticos. Proceso de 4 pasos para integraciones on-prem.',
 };
 

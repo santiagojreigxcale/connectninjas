@@ -3,7 +3,7 @@ import PricingCards from '@/components/PricingCards';
 import { Check, HelpCircle } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Precios - Connect Ninjas',
+  title: 'Precios - ConnectNinjas',
   description: 'Precios transparentes para conectores API. 20.000€ por conector nuevo, 2.000€/año mantenimiento.',
 };
 
@@ -77,7 +77,7 @@ export default function PricingPage() {
         <div className="ninja-container">
           <div className="text-center mb-16">
             <h2 className="ninja-heading-lg mb-6">
-              ¿Por qué elegir Connect Ninjas?
+              ¿Por qué elegir ConnectNinjas?
             </h2>
           </div>
 

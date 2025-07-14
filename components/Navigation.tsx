@@ -42,7 +42,7 @@ export default function Navigation() {
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2 ninja-hover-lift">
             <Zap className="h-8 w-8 text-[#b8ff60]" />
-            <span className="text-xl font-bold text-[#e8f6ff]">Connect Ninjas</span>
+            <span className="text-xl font-bold text-[#e8f6ff]">ConnectNinjas</span>
           </Link>
 
           {/* Desktop Navigation */}

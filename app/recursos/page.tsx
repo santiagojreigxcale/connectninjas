@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { Calendar, User, ArrowRight, FileText, Video, Book } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Recursos - Connect Ninjas',
+  title: 'Recursos - ConnectNinjas',
   description: 'Blog técnico, documentación y recursos sobre integraciones API on-prem y conectores automáticos.',
 };
 
