@@ -28,7 +28,7 @@ export default function Hero() {
         <div className="text-center max-w-4xl mx-auto">
           {/* Main heading */}
           <h1 className={`ninja-heading-xl mb-6 ninja-text-gradient ${isVisible ? 'ninja-animation-fadeIn' : ''}`}>
-            Descargad vuestro conector API en minutos
+            Descarga tu Conector API en minutos
           </h1>
           
           {/* Subheading */}
