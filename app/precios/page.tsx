@@ -63,7 +63,7 @@ export default function PricingPage() {
               Precios simples y transparentes
             </h1>
             <p className="ninja-body-lg max-w-3xl mx-auto">
-              Sin costes ocultos, sin facturación por uso. Pagad una vez, usad para siempre.
+              Sin costes ocultos, sin facturación por uso. Pagas una vez, usas para siempre.
             </p>
           </div>
         </div>

@@ -50,7 +50,7 @@ export default function PricingCards() {
             Precios transparentes
           </h2>
           <p className="ninja-body-lg max-w-3xl mx-auto">
-            Sin costes ocultos, sin facturación por llamadas. Pagad una vez, usad para siempre.
+            Sin costes ocultos, sin facturación por llamadas. Pagas una vez, usas para siempre.
           </p>
         </div>
 

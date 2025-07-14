@@ -170,7 +170,7 @@ html {
 }
 
 .ninja-table th {
-  @apply bg-[#00384d] px-6 py-4 text-left text-[#b8ff60] font-semibold;
+  @apply bg-[#00384d] px-6 py-4 text-[#b8ff60] font-semibold;
 }
 
 .ninja-table td {
