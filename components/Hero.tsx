@@ -47,7 +47,7 @@ export default function Hero() {
             <Link href="/producto">
               <Button className="ninja-button-secondary ninja-hover-lift">
                 <Upload className="mr-2 h-4 w-4" />
-                Subid documentación
+                Subir documentación
               </Button>
             </Link>
           </div>
