@@ -67,7 +67,7 @@ export default function Navigation() {
           <div className="hidden md:flex items-center space-x-4">
             <Link href="/contacto">
               <Button className="ninja-button">
-                Solicitad demo
+                Solicitar demo
               </Button>
             </Link>
           </div>
@@ -108,7 +108,7 @@ export default function Navigation() {
               <div className="pt-4 border-t border-[#0a4c5c]">
                 <Link href="/contacto" onClick={() => setIsOpen(false)}>
                   <Button className="ninja-button w-full">
-                    Solicitad demo
+                    Solicitar demo
                   </Button>
                 </Link>
               </div>

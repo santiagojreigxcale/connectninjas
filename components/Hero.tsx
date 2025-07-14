@@ -40,7 +40,7 @@ export default function Hero() {
           <div className={`flex flex-col sm:flex-row gap-4 justify-center mb-12 ${isVisible ? 'ninja-animation-scaleIn' : ''}`}>
             <Link href="/contacto">
               <Button className="ninja-button ninja-hover-lift">
-                Solicitad demo
+                Solicitar demo
                 <ArrowRight className="ml-2 h-4 w-4" />
               </Button>
             </Link>

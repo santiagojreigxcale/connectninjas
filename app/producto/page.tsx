@@ -148,7 +148,7 @@ export default function ProductPage() {
             </p>
             <Link href="/contacto">
               <Button className="ninja-button ninja-hover-lift">
-                Solicitad demo gratuita
+                Solicitar demo gratuita
               </Button>
             </Link>
           </div>
