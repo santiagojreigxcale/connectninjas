@@ -20,7 +20,7 @@ const pricingPlans = [
       'Sin vendor lock-in',
     ],
     icon: Zap,
-    popular: false,
+    popular: true,
   },
   {
     name: 'Mantenimiento Anual',
@@ -37,7 +37,7 @@ const pricingPlans = [
       'Notificaciones de cambios API',
     ],
     icon: RefreshCw,
-    popular: true,
+    popular: false,
   },
 ];
 
