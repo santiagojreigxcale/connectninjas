@@ -18,8 +18,8 @@ const steps = [
   },
   {
     number: 3,
-    title: 'Elige C#',
-    description: 'Un click y listo. Código optimizado y listo para producción.',
+    title: 'Elige tu framework',
+    description: 'Selecciona C# (más lenguajes próximamente). Código optimizado y listo para producción.',
     icon: Code,
   },
   {
