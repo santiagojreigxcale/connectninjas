@@ -56,7 +56,8 @@ export default function ProductPage() {
         <div className="ninja-container">
           <div className="text-center mb-16">
             <h1 className="ninja-heading-xl mb-6">
-              Conectores API generados por IA. Más rápido. Más preciso.
+              Conectores API generados por IA.<br />
+              Más rápido. Más preciso.
             </h1>
             <p className="ninja-body-lg max-w-3xl mx-auto">
               Automatizamos lo repetitivo y te damos lo esencial: conectores listos para producción, 100% on-prem y sin vendor lock-in, desarrollados mediante Inteligencia Artificial.
