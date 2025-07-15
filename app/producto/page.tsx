@@ -16,7 +16,13 @@ const features = [
   },
   {
     icon: Shield,
-    title: 'Despliegue on-prem',
+    title: (
+      <>
+        Despliegue
+        <br />
+        on-prem
+      </>
+    ),
     description: 'Tus datos nunca salen de tu infraestructura. Control total y seguridad garantizada.',
   },
   {
@@ -26,8 +32,8 @@ const features = [
   },
   {
     icon: Code,
-    title: 'C# nativo',
-    description: 'Código limpio y optimizado en C#. Próximamente: Python, Java y Node.js.',
+    title: 'C# y Java',
+    description: 'Código limpio y optimizado en C# y Java. Próximamente: Python, Node.js y Go.',
   },
   {
     icon: Download,
