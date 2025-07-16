@@ -49,8 +49,8 @@ const features = [
 
 const languages = [
   { name: 'C#', status: 'available', description: 'Completamente soportado' },
-  { name: 'Python', status: 'coming', description: 'Q2 2024' },
   { name: 'Java', status: 'available', description: 'Completamente soportado' },
+  { name: 'Python', status: 'coming', description: 'Q2 2024' },
   { name: 'Node.js', status: 'coming', description: 'Q4 2024' },
 ];
 
